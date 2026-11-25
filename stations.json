@@ -1,0 +1,9 @@
+[
+  { "id": "1340", "name": "RIL SEC8 5B GATE", "channels": 8 },
+  { "id": "1341", "name": "RIL SEC10", "channels": 8 },
+  { "id": "1339", "name": "RIL SEC 2A SR", "channels": 5 },
+  { "id": "1338", "name": "METROPOLIS SALES OFFICE", "channels": 5 },
+  { "id": "1337", "name": "RIL SEC11", "channels": 5 },
+  { "id": "474", "name": "RIL Sec 3 AQMS2", "channels": 5 },
+  { "id": "473", "name": "RIL Sec 5 AQMS1", "channels": 5 }
+]
